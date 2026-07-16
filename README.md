@@ -31,10 +31,10 @@ This project performs deep exploratory data analysis (EDA), feature engineering,
 ![Heatmap](assets/heatmap.png)
 
 **Average Energy Consumption by Load Type**
-![Grouped Bar Chart](assets/group_bar.png)
+![Grouped Bar Chart](assets/grouped%20bar%20chart.png)
 
 **Average Energy Usage by Hour of Day**
-![Line Chart](assets/linechart.png)
+![Line Chart](assets/line%20chart.png)
 
 ### EDA Summary
 The dataset contains 35,040 clean records with no missing values (before feature engineering). Maximum Load periods show the highest average energy consumption, while Light Load periods consume the least. Energy usage fluctuates clearly with the plant's operating hours, peaking during active production periods. CO2 emissions and reactive power are strongly linked to overall energy usage, suggesting that energy spikes are driven primarily by periods of maximum industrial activity.
